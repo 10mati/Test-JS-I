@@ -34,5 +34,5 @@ true && false = False
 false || !false = true
 !2 = False
 "texto" || 0 =
-2 || "prueba“ =
+2 || "prueba“ = ?
 ```
