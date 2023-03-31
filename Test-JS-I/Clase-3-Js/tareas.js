@@ -183,7 +183,7 @@ function tieneTresDigitos(numero) {
   }
 }
 
-// ---------- Puntos extra ----------
+// ---------- Puntos extra --------
 
 function esPrimo(numero) {
   // Devuelve "true" si "numero" es primo
