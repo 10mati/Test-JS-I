@@ -219,4 +219,4 @@ module.exports = {
   esVerdadero,
   tieneTresDigitos,
   doWhile
-};
+}
